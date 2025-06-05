@@ -36,6 +36,3 @@ This stores your database files persistently outside the container.
   * User: `postgres`
   * Password: `mysecret`
 
-```
-
----
