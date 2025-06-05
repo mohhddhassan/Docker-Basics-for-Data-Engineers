@@ -28,5 +28,4 @@ Look for messages indicating the server started successfully.
 * Use the official [clickhouse-client](https://clickhouse.com/docs/en/interfaces/cli/)
 * Or tools like [Tabix](https://tabix.io/) for web UI
 
-```
 
